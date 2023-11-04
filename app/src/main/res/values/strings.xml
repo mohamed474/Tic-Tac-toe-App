@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTac Toe</string>
+    <string name="xo_game">XO Game</string>
+    <string name="_0">0</string>
+</resources>
